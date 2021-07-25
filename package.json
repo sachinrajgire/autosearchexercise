@@ -1,5 +1,5 @@
 {
-  "name": "web-starter-template",
+  "name": "Wynisco Exercise for bootcamp students",
   "version": "0.1.0",
   "description": "The Web Starter Template (WST) is a starting point for creating Front End Web applications.",
   "main": "app.js",
@@ -25,7 +25,7 @@
     "End",
     "Template"
   ],
-  "author": "Shaun Hinchy",
+  "author": "Sachin Rajgire Wynisco.com",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.3.4",
